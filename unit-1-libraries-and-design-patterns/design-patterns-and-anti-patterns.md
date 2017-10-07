@@ -16,7 +16,19 @@ Software design:
 
 OO:
 
-* Circular dependency:  Uneccassary dependencies between objects
+* Circular dependency:  uneccassary dependencies between objects
+* God objects: object that has too responsibility
+
+Programming:
+
+* Hard coding: assumptions hard coded into the system
+* Magic numbers
+* Magic strings
+
+Methodical:
+
+* Copy and paste
+* Reinventing the wheel
 
 
 
