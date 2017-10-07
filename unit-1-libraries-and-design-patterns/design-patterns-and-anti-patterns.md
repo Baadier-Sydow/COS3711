@@ -4,7 +4,7 @@ Design patterns are efficient and elegant solutions to common problems. They pro
 
 They can improve the effeciency of teams and the consistency of the code.
 
-Anti-patterns are the antithesis of design pattens. They inefficient and ineffective patterns often used by new developers and more senior developers.
+Anti-patterns are the antithesis of design patterns. They inefficient and ineffective patterns often used by new developers and more senior developers.
 
 Some examples:
 
@@ -16,7 +16,7 @@ Software design:
 
 OO:
 
-* Circular dependency: 
+* Cdsdsircular dependency:  Unneccassary 
 
 
 
