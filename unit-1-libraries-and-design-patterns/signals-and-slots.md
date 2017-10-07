@@ -1,6 +1,6 @@
 ## Signals & Slots
 
-Signals and slots are a way to publish and receive messages between objects. It is Qt's implementation of the Pub/Sub pattern.
+Signals and slots are a way to publish and receive messages between objects. It is Qt's implementation of the Pub/Sub pattern or the Observer pattern.
 
 A signal is pushed from one object and received in another objects slot.
 
@@ -54,7 +54,6 @@ void Receiver::tweetListener()
 {
     printf("Hello World \n");
 }
-
 ```
 
 _Signals are neither public nor private._
