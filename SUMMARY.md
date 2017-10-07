@@ -10,4 +10,5 @@
 * [Unit 6 - More Design Patterns](unit-6-more-design-patterns.md)
 * [Unit 7 - Concurrency](unit-7-concurrency.md)
 * [Unit 8 - Networking & Web](unit-8-networking-and-web.md)
+* [Unit 2 - Meta Objects, Properties & Reflective Programming](unit-2-meta-objects-properties-and-reflective-programming.md)
 
