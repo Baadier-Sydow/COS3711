@@ -19,7 +19,8 @@ There is an optional connection type that I wont go into.
 Resources:
 
 * Ezust Chapter 8 \(page 275\)
-* Voidrealms [https://www.youtube.com/watch?v=JtyCM4BTbYo](https://www.youtube.com/watch?v=JtyCM4BTbYo)
+* Voidrealms GUI version [https://www.youtube.com/watch?v=JtyCM4BTbYo](https://www.youtube.com/watch?v=JtyCM4BTbYo)
+* Voidrealms non-GUI version [https://www.youtube.com/watch?v=zpZJ4vd7YqY](https://www.youtube.com/watch?v=zpZJ4vd7YqY)
 
 
 
