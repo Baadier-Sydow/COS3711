@@ -14,5 +14,7 @@ Key outcomes:
 
 * Stack and heap memory
 
+* Anti patterns
+
 
 
