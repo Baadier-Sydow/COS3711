@@ -1,5 +1,7 @@
 ## Libraries
 
+Using libraries is critical for effective code reuse and limiting the amount of reinventing that can take place.
+
 Libraries can be packaged in 3 different ways in C++:
 
 1. Open source package =&gt; the full source is made a available

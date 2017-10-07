@@ -4,7 +4,7 @@
 * [Unit 1 - Libraries & Design Patterns](unit-1-libraries-and-design-patterns.md)
   * [Libraries](unit-1-libraries-and-design-patterns/libraries.md)
   * [Design Patterns & Anti-Patterns](unit-1-libraries-and-design-patterns/design-patterns-and-anti-patterns.md)
-  * Serializer Pattern
+  * [Serializer Pattern](unit-1-libraries-and-design-patterns/serializer-pattern.md)
   * Signals & Slots
   * Stack & Heap Memory
   * Qt's Child Management
