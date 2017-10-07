@@ -4,7 +4,7 @@ Key outcomes:
 
 * Patterns for code reuse
 * Using frameworks, libraries and API's in C++
-* Serialize pattern
+* Serializer pattern
 
 * Polymorphism and polymorphic assignment
 
