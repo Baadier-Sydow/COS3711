@@ -7,6 +7,6 @@
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)
 * [Unit 5 - Parsing XML](unit-5-parsing-xml.md)
 * [Unit 6 - More Design Patterns](unit-6-more-design-patterns.md)
-* Unit 7 - Concurrency
+* [Unit 7 - Concurrency](unit-7-concurrency.md)
 * Unit 8 - Networking & Web
 
