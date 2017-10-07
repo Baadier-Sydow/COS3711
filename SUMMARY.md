@@ -1,3 +1,11 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Unit 1 - Libraries & Design Patterns](README.md)
+* [Unit 2 - Meta Objects, Properties & Reflective Programming](chapter1.md)
+* [Unit 3 - Models & Views](unit-3-models-and-views.md)
+* Unit 4 - Validation & Regular Expressions
+* Unit 5 - Parsing XML
+* Unit 6 - More Design Patterns
+* Unit 7 - Concurrency
+* Unit 8 - Networking & Web
+
