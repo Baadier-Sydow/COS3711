@@ -17,5 +17,7 @@ int main(int argc, char *argv[])
 
     s->tweet();
 
+    // tweetListener should now and when the sender object was created.
+
     return a.exec();
 }

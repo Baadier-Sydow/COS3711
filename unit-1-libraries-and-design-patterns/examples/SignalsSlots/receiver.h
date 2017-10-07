@@ -9,7 +9,7 @@ class Receiver : public QObject
     Q_OBJECT
 
 public:
-    Receiver();
+    Receiver(QObject *parent = 0);
 
 public slots:
     void tweetListener();

@@ -1,6 +1,6 @@
 #include "sender.h"
 
-Sender::Sender()
+Sender::Sender(QObject *parent) : QObject(parent)
 {
-
+    emit tweet();
 }

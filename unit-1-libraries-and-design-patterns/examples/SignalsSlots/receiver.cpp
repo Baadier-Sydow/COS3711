@@ -1,10 +1,12 @@
 #include "receiver.h"
+#include <stdio.h>
 
-Receiver::Receiver()
+Receiver::Receiver(QObject *parent) : QObject(parent)
 {
 
 }
 
-void Receiver::tweetListener(){
-    // handle the signal here
+void Receiver::tweetListener()
+{
+    printf("Hello World \n");
 }

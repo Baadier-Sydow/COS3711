@@ -8,7 +8,7 @@ class Sender : public QObject
     Q_OBJECT
 
 public:
-    Sender();
+    Sender(QObject *parent = 0);
 
 signals:
     void tweet();
