@@ -27,8 +27,13 @@ To add signals and slots to your class you need to inherit from the QObject clas
 
 class Sender : public QObject
 {
+
+Q_OBJECT
+
 public:
     Sender();
+public slots:
+    void tweetListener(QString tweet);    
 signals:
     void tweet(QString t);
 };
