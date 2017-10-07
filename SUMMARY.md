@@ -5,7 +5,7 @@
   * [Libraries, Frameworks & API's](unit-1-libraries-and-design-patterns/libraries.md)
   * [Design Patterns & Anti-Patterns](unit-1-libraries-and-design-patterns/design-patterns-and-anti-patterns.md)
   * [Serializer Pattern](unit-1-libraries-and-design-patterns/serializer-pattern.md)
-  * Signals & Slots
+  * [Signals & Slots](unit-1-libraries-and-design-patterns/signals-and-slots.md)
   * Stack & Heap Memory
   * Qt's Child Management
   * Polymorphism & Polymorphic Assignment
@@ -16,4 +16,5 @@
 * [Unit 6 - More Design Patterns](unit-6-more-design-patterns.md)
 * [Unit 7 - Concurrency](unit-7-concurrency.md)
 * [Unit 8 - Networking & Web](unit-8-networking-and-web.md)
+* [TODO](todo.md)
 
