@@ -10,8 +10,7 @@ Key Outcomes:
 
 Resources:
 
-* 
-
+* Ezust Chapter 13
 
 
 
