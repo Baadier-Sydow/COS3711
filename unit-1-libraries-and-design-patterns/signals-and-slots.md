@@ -39,6 +39,10 @@ signals:
 };
 ```
 
+_Signals are neither public nor private._
+
+
+
 Resources:
 
 * Ezust Chapter 8 \(page 275\)
