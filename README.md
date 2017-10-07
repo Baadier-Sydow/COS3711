@@ -16,13 +16,10 @@ Key outcomes:
 
 * Anti patterns
 
-
-
 Resources
 
 * Ezust Chapter 7
-
-
+* Videos on my.unisa
 
 
 
