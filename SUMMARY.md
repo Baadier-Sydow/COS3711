@@ -4,6 +4,11 @@
 * [Unit 1 - Libraries & Design Patterns](unit-1-libraries-and-design-patterns.md)
   * [Libraries](unit-1-libraries-and-design-patterns/libraries.md)
   * [Design Patterns & Anti-Patterns](unit-1-libraries-and-design-patterns/design-patterns-and-anti-patterns.md)
+  * Serializer Pattern
+  * Qt's Child Management
+  * Signals & Slots
+  * Stack & Heap Memory
+  * Polymorphism & Polymorphic Assignment
 * [Unit 2 - Meta Objects, Properties & Reflective Programming](unit-2-meta-objects-properties-and-reflective-programming.md)
 * [Unit 3 - Models & Views](unit-3-models-and-views.md)
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)

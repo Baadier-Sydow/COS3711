@@ -6,6 +6,7 @@ Key outcomes:
 * Anti patterns
 
 * Using frameworks, libraries and API's in C++
+
 * Serializer pattern
 
 * Polymorphism and polymorphic assignment
