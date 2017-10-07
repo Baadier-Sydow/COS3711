@@ -18,6 +18,8 @@ There is an optional connection type that I wont go into.
 
 To add signals and slots to your class you need to inherit from the QObject class and include the QObject macro.
 
+Typical header and class definition.
+
 ```cpp
 #ifndef SENDER_H
 #define SENDER_H
@@ -31,12 +33,28 @@ class Sender : public QObject
 Q_OBJECT
 
 public:
-    Sender();
+    Sender(QObject *parent = 0);
 public slots:
     void tweetListener(QString tweet);    
 signals:
     void tweet(QString t);
 };
+```
+
+```
+#include "receiver.h"
+#include <stdio.h>
+
+Receiver::Receiver(QObject *parent) : QObject(parent)
+{
+
+}
+
+void Receiver::tweetListener()
+{
+    printf("Hello World \n");
+}
+
 ```
 
 _Signals are neither public nor private._
