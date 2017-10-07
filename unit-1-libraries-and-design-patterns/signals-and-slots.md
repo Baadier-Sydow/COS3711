@@ -9,7 +9,7 @@ Qt's model view pattern used for its widget is powered by this functionality.
 Resources:
 
 * Ezust Chapter 8
-* Voidrealms 
+* Voidrealms [https://www.youtube.com/watch?v=JtyCM4BTbYo](https://www.youtube.com/watch?v=JtyCM4BTbYo)
 
 
 
