@@ -8,5 +8,10 @@ Key Outcomes:
 * Generate XML files using DOM
 * Implement parsing using DOM
 
+Resources:
+
+* Ezust Chapter 15
+* SAX and DOM XML parsing tutorial [http://www.digitalfanatics.org/projects/qt\_tutorial/chapter09.html](http://www.digitalfanatics.org/projects/qt_tutorial/chapter09.html)
+
 
 
