@@ -9,13 +9,13 @@ Key outcomes:
 
 * Serializer pattern
 
-* Polymorphism and polymorphic assignment
-
-* Qt's child management facility
-
 * Signals and slots
 
 * Stack and heap memory
+
+* Polymorphism and polymorphic assignment
+
+* Qt's child management facility
 
 Resources
 
