@@ -1,3 +1,9 @@
-# My Awesome Book
+# Unit 1 - Libraries & Design Patterns
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Key outcomes:
+
+* Patterns for code reuse
+* Using frameworks & API's
+* 
+
+

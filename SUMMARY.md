@@ -1,6 +1,7 @@
 # Summary
 
 * [Unit 1 - Libraries & Design Patterns](README.md)
+  * [Test](test.md)
 * [Unit 2 - Meta Objects, Properties & Reflective Programming](chapter1.md)
 * [Unit 3 - Models & Views](unit-3-models-and-views.md)
 * Unit 4 - Validation & Regular Expressions
