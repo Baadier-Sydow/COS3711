@@ -3,6 +3,8 @@
 Key outcomes:
 
 * Patterns for code reuse
+* Anti patterns
+
 * Using frameworks, libraries and API's in C++
 * Serializer pattern
 
@@ -13,8 +15,6 @@ Key outcomes:
 * Signals and slots
 
 * Stack and heap memory
-
-* Anti patterns
 
 Resources
 
