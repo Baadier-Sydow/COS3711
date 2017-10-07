@@ -10,8 +10,9 @@ Key Outcomes:
 
 Resources:
 
-* 
+* Ezust Chapter 16
 
+* Videos on my.unisa
 
 
 
