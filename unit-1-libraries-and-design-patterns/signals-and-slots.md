@@ -16,6 +16,24 @@ bool QObject::connect(senderQObjectPtr, SIGNAL(signalName(parameters)), receiver
 
 There is an optional connection type that I wont go into.
 
+To add signals and slots to your class you need to inherit from the QObject class and include the QObject macro.
+
+```cpp
+#ifndef SENDER_H
+#define SENDER_H
+
+#include <QString>
+#include <QObject>
+
+class Sender : public QObject
+{
+public:
+    Sender();
+signals:
+    void tweet(QString t);
+};
+```
+
 Resources:
 
 * Ezust Chapter 8 \(page 275\)
