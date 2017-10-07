@@ -3,7 +3,16 @@
 Key outcomes:
 
 * Patterns for code reuse
-* Using frameworks & API's
-* 
+* Using frameworks, libraries and API's in C++
+* Serialize pattern
+
+* Polymorphism and polymorphic assignment
+
+* Qt's child management facility
+
+* Signals and slots
+
+* Stack and heap memory
+
 
 
