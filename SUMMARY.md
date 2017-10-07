@@ -6,7 +6,7 @@
   * [Design Patterns & Anti-Patterns](unit-1-libraries-and-design-patterns/design-patterns-and-anti-patterns.md)
   * [Serializer Pattern](unit-1-libraries-and-design-patterns/serializer-pattern.md)
   * [Signals & Slots](unit-1-libraries-and-design-patterns/signals-and-slots.md)
-  * Stack & Heap Memory
+  * [Stack & Heap Memory](unit-1-libraries-and-design-patterns/stack-and-heap-memory.md)
   * Qt's Child Management
   * Polymorphism & Polymorphic Assignment
 * [Unit 2 - Meta Objects, Properties & Reflective Programming](unit-2-meta-objects-properties-and-reflective-programming.md)
