@@ -28,5 +28,10 @@ foreach (const Customer* current, custList){
 
 
 
+Resources:
+
+* Ezust Chapter 8
+* Example project in repo
+
 
 

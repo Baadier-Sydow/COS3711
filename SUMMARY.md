@@ -8,7 +8,7 @@
   * [Signals & Slots](unit-1-libraries-and-design-patterns/signals-and-slots.md)
   * [Stack & Heap Memory](unit-1-libraries-and-design-patterns/stack-and-heap-memory.md)
   * [Qt's Child Management](unit-1-libraries-and-design-patterns/qts-child-management.md)
-  * Polymorphism & Polymorphic Assignment
+  * [Polymorphism & Polymorphic Assignment](unit-1-libraries-and-design-patterns/polymorphism-and-polymorphic-assignment.md)
 * [Unit 2 - Meta Objects, Properties & Reflective Programming](unit-2-meta-objects-properties-and-reflective-programming.md)
 * [Unit 3 - Models & Views](unit-3-models-and-views.md)
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)
