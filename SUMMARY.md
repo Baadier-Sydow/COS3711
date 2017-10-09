@@ -14,6 +14,9 @@
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)
 * [Unit 5 - Parsing XML](unit-5-parsing-xml.md)
   * [XML Basics](unit-5-parsing-xml/xml-basics.md)
+  * SAX Parsing
+  * DOM Parsing
+  * Create XML with DOM
 * [Unit 6 - More Design Patterns](unit-6-more-design-patterns.md)
 * [Unit 7 - Concurrency](unit-7-concurrency.md)
 * [Unit 8 - Networking & Web](unit-8-networking-and-web.md)
