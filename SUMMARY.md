@@ -17,4 +17,5 @@
 * [Unit 7 - Concurrency](unit-7-concurrency.md)
 * [Unit 8 - Networking & Web](unit-8-networking-and-web.md)
 * [TODO](todo.md)
+* [Study Priority](study-priority.md)
 
