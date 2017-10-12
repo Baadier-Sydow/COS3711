@@ -14,7 +14,9 @@ Typically, you would name the classes:
 * ClassReader
 * ClassWriter
 
-A simple UML example:![](assets/unit-1/images/serializer.png)![](/assets/unit-1/images/serializer.png)
+A simple UML example:![](assets/unit-1/images/serializer.png)![](/assets/unit-1/images/serializer.png)TODO:
 
+overload &gt;&gt; and &lt;&lt;
 
+QTextStream& operator&lt;&lt;\(QTextstream os\)
 
