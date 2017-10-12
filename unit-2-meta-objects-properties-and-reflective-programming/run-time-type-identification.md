@@ -10,7 +10,9 @@ C++ has dynamic\_cast and typid available. While Qt adds:
 A typecast operator converts an expression from one type to another.
 
 ```cpp
-DestinationType* qobject_cast<DestinationType*> (QObject qObjectPointer)
+
+DestinationType* qobject_cast<DestinationType*> (QObject qObjectPointer);
+
 ```
 
 You can only use qobject\_cast with objects derived from QObject.
