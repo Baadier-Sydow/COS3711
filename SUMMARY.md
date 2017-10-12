@@ -14,6 +14,7 @@
   * [Using MetaObjects](unit-2-meta-objects-properties-and-reflective-programming/using-metaobjects.md)
   * [Run Time Type Identification](unit-2-meta-objects-properties-and-reflective-programming/run-time-type-identification.md)
   * [Q\_PROPERTY Macro - QObject Properties](unit-2-meta-objects-properties-and-reflective-programming/qproperty-macro-qobject-properties.md)
+  * [QVariant Access Properties](unit-2-meta-objects-properties-and-reflective-programming/qvariant-access-properties.md)
 * [Unit 3 - Models & Views](unit-3-models-and-views.md)
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)
 * [Unit 5 - Parsing XML](unit-5-parsing-xml.md)

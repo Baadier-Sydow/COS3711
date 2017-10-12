@@ -19,20 +19,20 @@ A example of a class that implements Q\_PROPERTY
 ```cpp
 class Person : public QObject{
     Q_OBJECT
-    
+
     Q_PROPERTY(QString name READ getName WRITE setName NOTIFY namechange)
-    
+
     public:
         Person(QObject* parent = 0);
         void setName(QString s);
         QString getName();
-    
+
     signals:
         void nameChange();
-    
+
     private:
         QString name;
-    
+
 }
 ```
 
