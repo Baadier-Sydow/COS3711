@@ -6,7 +6,8 @@
   * Look at input streams for serializer should a file or console need to be read
   * Re-examine based OO concepts in C++ ie inheritance polymorphism
 * Unit 2
-  * 
+  * dynamic\_cast
+  * typeid
 * Unit 3
 * Unit 4
 * Unit 5
