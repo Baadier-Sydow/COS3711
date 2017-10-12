@@ -8,6 +8,8 @@
 * Unit 2
   * dynamic\_cast
   * typeid
+  * dynamic properties
+  * QMetaTypes
 * Unit 3
 * Unit 4
 * Unit 5
