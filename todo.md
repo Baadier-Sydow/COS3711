@@ -26,7 +26,9 @@
   * Validator return types and their use
   * Subclassing QValidator
 * Unit 5
-  \* 
+  * SAX Parsing
+  * DOM Parsing & XML Generation
+  * QXmlStreamWriter & QXmlStreamWriter
 * Unit 6
 * Unit 7
 * Unit 8
