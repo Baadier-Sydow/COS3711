@@ -30,7 +30,18 @@
   * DOM Parsing & XML Generation
   * QXmlStreamWriter & QXmlStreamWriter
 * Unit 6
+  * interfaces
+  * Polymorphism
+* * Factory Method
+  * Abstract Factory
+  * Singleton
+  * Memento
+  * Facade
 * Unit 7
+  * QProcess
+  * QThread
+  * QtConcurrent
+  * Thread Safety
 * Unit 8
 
 
