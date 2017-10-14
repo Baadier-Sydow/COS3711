@@ -19,9 +19,9 @@
   * Review exam question style
 * Unit 4
   * Input masks \(page 435\)
-  * Using validators
+  * Using validators \(page 438\)
   * QLineEdit
-  * Basic REGEX
+  * Basic REGEX \(page 440\)
 * Unit 5
   \* 
 * Unit 6
