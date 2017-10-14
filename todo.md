@@ -11,6 +11,9 @@
   * dynamic properties
   * QMetaTypes
 * Unit 3
+  * Built in model view classes
+  * Delegates
+  * Smart Pointers
 * Unit 4
 * Unit 5
   \* 

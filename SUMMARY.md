@@ -16,6 +16,7 @@
   * [Q\_PROPERTY Macro - QObject Properties](unit-2-meta-objects-properties-and-reflective-programming/qproperty-macro-qobject-properties.md)
   * [QVariant Access Properties](unit-2-meta-objects-properties-and-reflective-programming/qvariant-access-properties.md)
   * [Dynamic Properties](unit-2-meta-objects-properties-and-reflective-programming/dynamic-properties.md)
+  * [QMetaTypes](unit-2-meta-objects-properties-and-reflective-programming/qmetatypes.md)
 * [Unit 3 - Models & Views](unit-3-models-and-views.md)
 * [Unit 4 - Validation & Regular Expressions](unit-4-validation-and-regular-expressions.md)
 * [Unit 5 - Parsing XML](unit-5-parsing-xml.md)
