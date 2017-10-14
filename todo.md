@@ -43,6 +43,7 @@
   * QtConcurrent
   * Thread Safety
 * Unit 8
+  * Understand the web tools
 
 
 
