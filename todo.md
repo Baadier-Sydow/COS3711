@@ -12,9 +12,16 @@
   * QMetaTypes
 * Unit 3
   * Built in model view classes
+    * View Classes
+    * Model Classes
   * Delegates
   * Smart Pointers
+  * Review exam question style
 * Unit 4
+  * Input masks \(page 435\)
+  * Using validators
+  * QLineEdit
+  * Basic REGEX
 * Unit 5
   \* 
 * Unit 6
