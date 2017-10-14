@@ -22,6 +22,9 @@
   * Using validators \(page 438\)
   * QLineEdit
   * Basic REGEX \(page 440\)
+  * Regular Expression Validation \(page 449\)
+  * Validator return types and their use
+  * Subclassing QValidator
 * Unit 5
   \* 
 * Unit 6
